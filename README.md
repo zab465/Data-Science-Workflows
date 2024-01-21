@@ -8,6 +8,8 @@ They can be used as a templates for Social Science projects, or for demonstratio
 * httr
 * DBI
 * xml2
+* tmap
+* ggplot2
 
 This repository contains two projects: 
 * Workflow_1 which contains: 
