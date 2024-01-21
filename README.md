@@ -11,3 +11,5 @@ They can be used as a templates for Social Science projects, or for demonstratio
 
 This repository contains the following projects: 
 * A workflow of data collection (automated web-scraping, API, packaged API) and data analysis (SQL, tmap)
+* A relational database which stores the tables used in the analysis
+* A csv file of osme of the data 
