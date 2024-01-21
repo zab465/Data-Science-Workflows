@@ -1,5 +1,5 @@
 # Data-Science-Workflows
-In this repo I collect sample Data Science workflows and explain them step by step. 
+In this repo I collect sample Data Science workflows and explain them step by step. You can find a single project in each folder.
 They can be used as a templates for Social Science projects, or for demonstration of how to use common R packages (I include a list of these further down). 
 
 * RSelenium
