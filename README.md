@@ -3,9 +3,10 @@
 ## Table of contents : 
 
 In this repo I collect sample Data Science workflows and explain them step by step. You can find a single project in each folder. 
-•	Workflow_1
-•	Workflow_2
-•	Technologies & Packages 
+
+* Workflow_1
+* Workflow_2
+* Technologies & Packages 
 
 ### Workflow_1
 
@@ -18,17 +19,18 @@ In this workflow I demonstrate mostly data-collection with automated scraping fo
 
 ### Packages 
 
-•	RSelenium
-•	rvest
-•	RSQLite
-•	httr
-•	DBI
-•	xml2
-•	tmap
-•	ggplot2
+* `RSelenium`
+* `rvest`
+* `RSQLite`
+* `httr`
+* `DBI`
+* `xml2`
+* `tmap`
+* `ggplot2`
 
 ### Technologies: 
-•	Automated Scraping
-•	Relational Databases 
+
+* Automated Scraping
+* Relational Databases 
 
 ![image](https://github.com/zab465/Data-Science-Workflows/assets/108009407/ad4ea8ff-3799-4e22-b744-0dd8a11848d2)
