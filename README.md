@@ -33,4 +33,3 @@ In this workflow I demonstrate mostly data-collection with automated scraping fo
 * Automated Scraping
 * Relational Databases 
 
-![image](https://github.com/zab465/Data-Science-Workflows/assets/108009407/ad4ea8ff-3799-4e22-b744-0dd8a11848d2)
